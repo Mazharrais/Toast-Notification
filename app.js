@@ -1,8 +1,8 @@
 
 let toastBox = document.getElementById("toastBox");
-let successMsg = "successfully submitted...";
-let errorMsg = "Please fix the error...";
-let invalidMsg = "Invalid Input please check again...";
+let successMsg = '<i class="fa-solid fa-circle-check"></i>successfully submitted...';
+let errorMsg = '<i class="fa-solid fa-circle-xmark"></i> Please fix the error...';
+let invalidMsg = '<i class="fa-solid fa-circle-exclamation"></i> Invalid Input please check again...';
 
 
 
